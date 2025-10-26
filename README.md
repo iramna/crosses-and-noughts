@@ -32,11 +32,3 @@ Alpha-Beta Pruning is an optimization that skips unnecessary paths:
 if one move is already clearly better, it stops checking worse ones — this makes the AI much faster without changing the result.
 
 
-
-Terminal UI:
-
-X | - | -
-----------
-- | O | -
-----------
-- | - | X
